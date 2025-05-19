@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Irma & Rangga – Undangan Digital 15 Juni 2025",
     description: "Undangan pernikahan Irma & Rangga yang akan diselenggarakan pada 15 Juni 2025",
-    images: ["/images/og-image.png"],
+    images: ["/images/og-image.jpg"],
   },
     generator: 'v0.dev'
 }
