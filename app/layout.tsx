@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: "Irma & Rangga – Undangan Digital 15 Juni 2025",
   description: "Undangan pernikahan Irma & Rangga yang akan diselenggarakan pada 15 Juni 2025",
   openGraph: {
+    url: "https://irma-rangga-wedding.vercel.app/",
     title: "Irma & Rangga – Undangan Digital 15 Juni 2025",
     description: "Undangan pernikahan Irma & Rangga yang akan diselenggarakan pada 15 Juni 2025",
     images: ["/images/og-image.jpg"],
